@@ -1,4 +1,4 @@
-<a href='peterolayemi.github.io'><h1>Peter Olayemi</h1></a>
+<h1>[Peter Olayemi](https://peterolayemi.github.io)</h1>
 
 I am a back end developer focused on Python/Django.
 I have 3+ years of experience in developing website applications. I have developed over 20 advanced applications for various use cases. I have serious passion for creating intuitive, dynamic user experiences.
