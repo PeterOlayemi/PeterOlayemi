@@ -1,9 +1,9 @@
 # [Peter Olayemi](https://peterolayemi.github.io)
 
-I am a back end developer focused on Python/Django.
+I am a full-stack web developer focused on Python Django.
 I have 3+ years of experience in developing website applications. I have developed over 20 advanced applications for various use cases. I have serious passion for creating intuitive, dynamic user experiences.
 
-My tech stack - Django, DjangoRestFramework, Mysql, HTML, CSS, git.
+My tech stack - Django, DjangoRestFramework, HTML, CSS; Bootstrap, JS, git.
 
 🔭 I’m currently working on College Management System
 
